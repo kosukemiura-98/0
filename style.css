@@ -918,6 +918,7 @@ nav .inner ul li a:hover {
 /* works */
 .works {
   padding: 55px 0 90px;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 767px) {
